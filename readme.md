@@ -1,7 +1,5 @@
 # Convert - Currency Converter
 
----
-
 ## Sobre o Projeto 💱
 O **Convert** é uma aplicação interativa que permite aos usuários **converter valores de reais (BRL) para dólar americano (USD), euro (EUR) e libra esterlina (GBP)**.
 O projeto tem como objetivo explorar conceitos essenciais de desenvolvimento web, incluindo manipulação de eventos, validação de entrada e formatação de dados.
@@ -11,7 +9,6 @@ O projeto tem como objetivo explorar conceitos essenciais de desenvolvimento web
 </div>
 
 ---
-
 ## Funcionalidades do Projeto 📋
 - Conversão de valores monetários entre diferentes moedas.
 - Formulário interativo para entrada do valor em reais.
@@ -20,7 +17,6 @@ O projeto tem como objetivo explorar conceitos essenciais de desenvolvimento web
 - Manipulação do DOM para exibição dinâmica dos resultados.
 
 ---
-
 ## Conceitos Abordados 📖
 
 ### HTML e CSS  
@@ -38,18 +34,15 @@ O projeto tem como objetivo explorar conceitos essenciais de desenvolvimento web
 - Formatação do resultado final para exibição correta.
 
 ---
-
 ## Tecnologias Utilizadas ✅
 - **HTML5**  
 - **CSS3**  
 - **JavaScript**  
 
 ---
-
 ## Plataforma de Ensino 🚀
 Este projeto faz parte da trilha de aprendizado da **[Rocketseat](https://www.rocketseat.com.br)**.
 
 ---
-
 ## Autor ✍️
 Projeto replicado como parte dos ensinamentos da Rocketseat, com ajustes realizados por **William Milanez**.
