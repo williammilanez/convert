@@ -1,5 +1,7 @@
 # Convert - Currency Converter
 
+---
+
 ## Sobre o Projeto 💱
 O **Convert** é uma aplicação interativa que permite aos usuários **converter valores de reais (BRL) para dólar americano (USD), euro (EUR) e libra esterlina (GBP)**.
 O projeto tem como objetivo explorar conceitos essenciais de desenvolvimento web, incluindo manipulação de eventos, validação de entrada e formatação de dados.
