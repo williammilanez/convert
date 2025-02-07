@@ -14,7 +14,7 @@ O projeto tem como objetivo explorar conceitos essenciais de desenvolvimento web
 - Conversão de valores monetários entre diferentes moedas.
 - Formulário interativo para entrada do valor em reais.
 - Validação da entrada para aceitar apenas números.
-- Apresentação do resultado formatado corretamente (exemplo: 100,00 Reais).
+- Apresentação do resultado formatado corretamente (exemplo: 1.000,00 Reais).
 - Manipulação do DOM para exibição dinâmica dos resultados.
 
 ---
